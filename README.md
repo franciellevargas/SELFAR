@@ -8,3 +8,8 @@
  ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/5a2d7baf37291cc83a10632b11c3341e44358fe7/img/selfar.png)
 
  
+<h2 align="left"> CITING </h2>
+
+<p align="justify">
+Francielle Vargas, Isadora Salles, Diego Alves, Ameeta Agrawal, Thiago Pardo, Fabrício Benevenuto (2024). <b>Improving Explainable Fact-Checking via Sentence-Level Factual Reasoning</b>. Proceedings of the 7th Fact Extraction and VERification Workshop (FEVER @ EMNLP 2024), Miami, United States. 
+</p>
