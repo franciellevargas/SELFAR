@@ -12,7 +12,7 @@
 <h2 align="left"> CITING </h2>
 
 <p align="justify">
-Francielle Vargas, Isadora Salles, Diego Alves, Ameeta Agrawal, Thiago Pardo, Fabrício Benevenuto (2024). <b>Improving Explainable Fact-Checking via Sentence-Level Factual Reasoning</b>. Proceedings of the 7th Fact Extraction and VERification Workshop (FEVER @ EMNLP 2024), Miami, United States. 
+Francielle Vargas, Isadora Salles, Diego Alves, Ameeta Agrawal, Thiago Pardo, Fabrício Benevenuto (2024). <b>Improving Explainable Fact-Checking via Sentence-Level Factual Reasoning</b>. Proceedings of the 7th Fact Extraction and VERification Workshop (FEVER @ EMNLP 2024). pp. 192–204, Miami, United States. https://aclanthology.org/2024.fever-1.23/. 
 </p>
 
 <br>
